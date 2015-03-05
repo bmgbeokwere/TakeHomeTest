@@ -1,0 +1,7 @@
+C:\Projects\Cardlytics\Question1Test\bin\Debug\Question1Test.dll
+C:\Projects\Cardlytics\Question1Test\bin\Debug\Question1Test.pdb
+C:\Projects\Cardlytics\Question1Test\bin\Debug\Question1.exe
+C:\Projects\Cardlytics\Question1Test\bin\Debug\Question1.pdb
+C:\Projects\Cardlytics\Question1Test\obj\Debug\Question1Test.csprojResolveAssemblyReference.cache
+C:\Projects\Cardlytics\Question1Test\obj\Debug\Question1Test.dll
+C:\Projects\Cardlytics\Question1Test\obj\Debug\Question1Test.pdb

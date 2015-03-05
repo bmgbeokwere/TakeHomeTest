@@ -1,0 +1,7 @@
+c:\Projects\Cardlytics\TriangleTest\bin\Debug\TypeOfTriangleTest.dll
+c:\Projects\Cardlytics\TriangleTest\bin\Debug\TypeOfTriangleTest.pdb
+c:\Projects\Cardlytics\TriangleTest\bin\Debug\TypeOfTriangle.exe
+c:\Projects\Cardlytics\TriangleTest\bin\Debug\TypeOfTriangle.pdb
+c:\Projects\Cardlytics\TriangleTest\obj\Debug\TypeOfTriangleTest.csprojResolveAssemblyReference.cache
+c:\Projects\Cardlytics\TriangleTest\obj\Debug\TypeOfTriangleTest.dll
+c:\Projects\Cardlytics\TriangleTest\obj\Debug\TypeOfTriangleTest.pdb

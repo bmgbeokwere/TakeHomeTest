@@ -1,0 +1,5 @@
+c:\Projects\Cardlytics\Question2\bin\Debug\Question2.exe.config
+c:\Projects\Cardlytics\Question2\bin\Debug\Question2.exe
+c:\Projects\Cardlytics\Question2\bin\Debug\Question2.pdb
+c:\Projects\Cardlytics\Question2\obj\Debug\Question2.exe
+c:\Projects\Cardlytics\Question2\obj\Debug\Question2.pdb

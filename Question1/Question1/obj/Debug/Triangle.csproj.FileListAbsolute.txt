@@ -1,0 +1,2 @@
+c:\Projects\Cardlytics\Question1\bin\Debug\Triangle.exe.config
+c:\Projects\Cardlytics\Question1\bin\Debug\TypeOfTriangle.exe.config
