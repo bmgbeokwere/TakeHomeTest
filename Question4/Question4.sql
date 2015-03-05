@@ -46,7 +46,7 @@ Assuming that both tables have the ID columns labled as primary keys (primary ke
 SELECT 
 	C.NAME, 
 	C.EMAIL, 
-	COUNT(O.ID)
+	COUNT(O.ID) AS ORDER_COUNT
 FROM Customers C
 JOIN Orders O ON C.ID = O.CUSTOMER_ID
 GROUP BY C.NAME, C.EMAIL;
@@ -56,7 +56,7 @@ GROUP BY C.NAME, C.EMAIL;
 */
 SELECT 
 	C.*,
-	COUNT(O.ID)
+	COUNT(O.ID) AS ORDER_COUNT
 FROM Customers C
 JOIN Orders O ON C.ID = O.CUSTOMER_ID
 GROUP BY C.ID, C.NAME, C.ADDRESS, C.PHONE, C.NUMBER, C.EMAIL
