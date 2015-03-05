@@ -7,7 +7,7 @@ namespace Question3Test {
     public class Question3Tests {
         [TestMethod]
         public void TestGetNumbersFromFile() {
-            var list = PrimeFactorParser.GetNumbersFromFile(@"C:\Projects\Cardlytics\Question3\TextFile1.txt");
+            var list = PrimeFactorParser.GetNumbersFromFile(@"C:\Users\Brian\Documents\GitHub\TakeHomeTest\Question3\Question3\TextFile1.txt");
             var list2 = new List<int> {12, 343, 3423, 78, 90, 2098, 2, 0, 128, 2378, 7};
             CollectionAssert.AreEqual(list, list2);
         }

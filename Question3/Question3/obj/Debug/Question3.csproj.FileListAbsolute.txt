@@ -3,3 +3,9 @@ c:\Projects\Cardlytics\Question3\bin\Debug\Question3.exe
 c:\Projects\Cardlytics\Question3\bin\Debug\Question3.pdb
 c:\Projects\Cardlytics\Question3\obj\Debug\Question3.exe
 c:\Projects\Cardlytics\Question3\obj\Debug\Question3.pdb
+C:\Users\Brian\Documents\GitHub\TakeHomeTest\Question3\Question3\bin\Debug\Question3.exe.config
+C:\Users\Brian\Documents\GitHub\TakeHomeTest\Question3\Question3\obj\Debug\Question3.exe
+C:\Users\Brian\Documents\GitHub\TakeHomeTest\Question3\Question3\obj\Debug\Question3.pdb
+C:\Users\Brian\Documents\GitHub\TakeHomeTest\Question3\Question3\bin\Debug\Question3.exe
+C:\Users\Brian\Documents\GitHub\TakeHomeTest\Question3\Question3\bin\Debug\Question3.pdb
+C:\Users\Brian\Documents\GitHub\TakeHomeTest\Question3\Question3\obj\Debug\Question3.csprojResolveAssemblyReference.cache
